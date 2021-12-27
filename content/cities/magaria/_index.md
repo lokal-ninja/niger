@@ -1,6 +1,6 @@
 ---
 title: Magaria
 url: /magaria/
-latitude: 14.1167353
-longitude: 7.623084800000001
+latitude: 12.998
+longitude: 8.911
 ---

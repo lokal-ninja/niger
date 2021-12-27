@@ -1,6 +1,6 @@
 ---
 title: Niamey,Niger
 url: /niamey-niger/
-latitude: 
-longitude: 
+latitude: 13.46
+longitude: 2.192
 ---
