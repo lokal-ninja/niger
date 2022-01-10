@@ -1,5 +1,5 @@
 ---
 title: "Logiciels & Services"
-url: /niamey/logiciels-and-services/
+url: /niamey/logiciels-et-services/
 shop: ordinateur
 ---
