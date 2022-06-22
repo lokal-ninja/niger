@@ -1,4 +1,4 @@
-baseURL = "https://ne.shoogle.net/niger"
+baseURL = "https://ne.shoogle.net/niger/"
 languageCode = "fr"
 title = "Niger"
 theme = "ln-base"
