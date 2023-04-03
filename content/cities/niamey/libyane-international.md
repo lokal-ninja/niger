@@ -1,5 +1,5 @@
 ---
 title: "Libyane International"
-url: /niamey-niger/libyane-international/
+url: /niamey/libyane-international/
 shop: coiffeur
 ---
