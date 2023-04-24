@@ -1,6 +1,6 @@
 ---
 title: Niamey
 url: /niamey/
-latitude: 13.516
-longitude: 2.113
+latitude: 13.533
+longitude: 2.117
 ---
