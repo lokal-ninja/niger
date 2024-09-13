@@ -1,5 +1,5 @@
 ---
 title: "Didi Oil"
 url: /niamey/didi-oil/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

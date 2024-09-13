@@ -1,5 +1,5 @@
 ---
 title: "Berbeiro"
 url: /magaria/berbeiro/
-shop: Friseur
+shop: coiffeur
 ---

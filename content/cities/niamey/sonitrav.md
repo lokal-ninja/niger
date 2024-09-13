@@ -1,5 +1,5 @@
 ---
 title: "Sonitrav"
 url: /niamey/sonitrav/
-shop: Reisebüro
+shop: agence de voyage
 ---

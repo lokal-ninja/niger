@@ -1,5 +1,5 @@
 ---
 title: "Niger Airlines"
 url: /agadez/niger-airlines/
-shop: Reisebüro
+shop: agence de voyage
 ---
