@@ -1,11 +1,11 @@
 id: 921264168
-type: way
+type: node
 latitude: 13.56054
 longitude: 2.10027
 postcode: ""
 city: Niamey
-street: "Bobiel"
-housenumber: 
+street: Bobiel
+housenumber: ""
 phone: "+22785144967"
-opening_hours: "Mo-Sa 09:00-23:30"
+opening_hours: Mo-Sa 09:00-23:30
 website: ""
